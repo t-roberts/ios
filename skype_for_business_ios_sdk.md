@@ -102,7 +102,7 @@ In this section we will add the Skype SDK code to join a meeting as an anonymous
 ##Adding Audio
 In this section we will wire-up our audio button (![image](Screenshots/mic_22.png)/![image](Screenshots/mute_22.png)). This will allow the user to un-mute and talk in the audio call. Clicking this button will toggle between muted (![image](Screenshots/mute_22.png)) and un-muted (![image](Screenshots/mic_22.png)) states.  
 
-![image](Screenshots/Conversation_top.PNG)
+![image](Screenshots/conversation_top.PNG)
 
 >Note:  
 >The anonymous users joins the call in a muted state. Before the user can un-mute themselves, the meeting organizer must un-mute them first. After this, the muted and un-muted states can be toggled by the user.
